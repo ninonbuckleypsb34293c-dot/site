@@ -1,0 +1,19 @@
+hr{
+    height: 5px;
+    color: rgb(0, 0, 0);
+    background-color: black;
+    margin-bottom: 20px;
+    
+}
+main{
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    background: linear-gradient(135deg,rgb(245, 188, 97), #fff0dc , rgba(237, 190, 101, 0.84) );;
+    box-shadow: 0px 0px 20px black;
+   border-radius: 10px;   
+   margin-bottom: 30px; 
+}
+
+     
+
